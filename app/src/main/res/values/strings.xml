@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Personality Types</string>
+
+    <string name="sociotype">Sociotype:\u0020</string>
+    <string name="description">Description:\u0020</string>
+    <string name="compatible_types">Compatible Types:\u0020</string>
 </resources>
