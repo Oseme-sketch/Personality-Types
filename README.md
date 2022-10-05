@@ -11,4 +11,4 @@ Personality Types is a modified version of the Sports app from Unit 3 (Navigatio
 
 ## Screenshots
 
-![CategoryList Screenshot](assets/images/CategoryListStart.png)
+<img src="assets/images/CategoryListStart.png" alt="CategoryList Screenshot" width=50% height=50%>
